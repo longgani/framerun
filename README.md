@@ -17,6 +17,7 @@
 # 파이썬 설치
 
 - 2버전 설치 -> 리액트 네이티브에서는 파이썬 2 사용
+- https://source-factory.tistory.com/13 (해당 링크 참조)
 
 
 
