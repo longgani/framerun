@@ -10,13 +10,13 @@
 
 - cmd 창 입력하기
 
-node --version
+  node --version
 
 
 
 # 파이썬 설치
 
--2버전 설치 -> 리액트 네이티브에서는 파이썬 2 사용
+- 2버전 설치 -> 리액트 네이티브에서는 파이썬 2 사용
 
 
 
@@ -31,9 +31,9 @@ node --version
 
 - cmd 창 입력하기
 
-java -version
+  java -version
 
-javac -version
+  javac -version
 
 
 # 안드로이드 스튜디오 설치
@@ -45,7 +45,7 @@ javac -version
 
 - cmd 창 입력하기
 
-adb -version
+  adb -version
 
 
 
@@ -53,61 +53,61 @@ adb -version
 
 - 프로그램이 잘 설치 된 것을 확인하기
 
-node --version
+  node --version
 
-java -version
+  java -version
 
-javac -version
+  javac -version
 
 
 -expo 설치, 프로젝트 생성(nvm 설치 필요 해당 블로그 참고 : https://seunghyun90.tistory.com/52)
 
-nvm install v12.10.0 (노드)
+  nvm install v12.10.0 (노드)
 
-nvm use v12.10.0 (노드)
+  nvm use v12.10.0 (노드)
 
-npm install -global expo-cli
+  npm install -global expo-cli
 
-npm install -g yarn
+  npm install -g yarn
 
 
 - expo 웹사이트에서 회원가입 하기 아래 부분은 이후 실행
 
-expo login
+  expo login
 
-expo init 앱이름
+  expo init 앱이름
 
-blank 선택
+  blank 선택
 
 
 -expo 프로젝트 실행
 
-cd 앱이름
+  cd 앱이름
 
-npm start 
+  npm start 
 
--> 오류발생 unhandled promise rejection waring error : cannot find modul 'fs/promises'
+  -> 오류발생 unhandled promise rejection waring error : cannot find modul 'fs/promises'
 
 ------------------------------------------------------------------------------------------------------------------
 
-오류 해결 방법 : node.js 버전을 14이상으로 해주기 그런데 nvm 때문에 다운그레이드 한것인데 어떡하지?
+  오류 해결 방법 : node.js 버전을 14이상으로 해주기 그런데 nvm 때문에 다운그레이드 한것인데 어떡하지?
 
-cmd 창에 nvm list 검색시 v18.15.0 사용 가능한 것으로 보여 버전을 업그레이드 해보자
+  cmd 창에 nvm list 검색시 v18.15.0 사용 가능한 것으로 보여 버전을 업그레이드 해보자
 
 ![image](https://user-images.githubusercontent.com/123061106/229605192-62d08a88-61eb-42e5-b7ef-fb3b2a726fd1.png)
 
-cmd 창에서 node 다른 버전 다운 받기
+  cmd 창에서 node 다른 버전 다운 받기
 
-nvm list
+  nvm list
 
-nvm list available
+  nvm list available
 
-nvm install 사용할 버전
+  nvm install 사용할 버전
 
-nvm use 사용할 버전
+  nvm use 사용할 버전
 
--> v18.15.0 변경
+  -> v18.15.0 변경
 
-오류 해결
+  오류 해결
 
 ------------------------------------------------------------------------------------------------------------------
