@@ -60,7 +60,7 @@
   javac -version
 
 
--expo 설치, 프로젝트 생성(nvm 설치 필요 해당 블로그 참고 : https://seunghyun90.tistory.com/52)
+- expo 설치, 프로젝트 생성(nvm 설치 필요 해당 블로그 참고 : https://seunghyun90.tistory.com/52)
 
   nvm install v12.10.0 (노드)
 
@@ -80,7 +80,7 @@
   blank 선택
 
 
--expo 프로젝트 실행
+- expo 프로젝트 실행
 
   cd 앱이름
 
