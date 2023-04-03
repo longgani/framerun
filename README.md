@@ -1,4 +1,4 @@
-#react native 프로젝트 시작
+##react native 프로젝트 시작
 
 <node.js, jdk, 안드로이드 스튜디오, vscode 설치 필요>
 
