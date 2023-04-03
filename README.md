@@ -1,21 +1,34 @@
 #react native 프로젝트 시작
+
 <node.js, jdk, 안드로이드 스튜디오, vscode 설치 필요>
 
 #node.js 설치 확인
+
 -lts 버전 다운
+
 -cmd 창 입력하기
+
 node --version
 
 #파이썬 설치
+
 -2버전 설치 -> 리액트 네이티브에서는 파이썬 2 사용
 
 #jdk 설치
+
 -설치 후 시스템>고급 시스템 설정> 환경변수> 시스템 변수> 새로만들기 통해서 
+
 ![image](https://user-images.githubusercontent.com/123061106/229601847-e1c0cafc-29da-45b4-bb2d-ca74a92c576e.png)
+
 ![image](https://user-images.githubusercontent.com/123061106/229602021-bd0d24c2-2856-4ea2-b97c-0877e648064d.png)
+
+
 -cmd 창 입력하기
+
 java -version
+
 javac -version
+
 
 #안드로이드 스튜디오 설치
 -설치 후 시스템>고급 시스템 설정> 환경변수> 사용자 변수> 새로만들기 통해서
