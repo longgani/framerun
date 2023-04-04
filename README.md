@@ -56,8 +56,10 @@
   1. 윈도우 키 + R 키로 실행창 열기
   2. appwiz.cpl 입력 후 확인
 ![image](https://user-images.githubusercontent.com/123061106/229704246-d1ca5c06-6740-486b-a2eb-b59b12a8f708.png)
+  
   3.윈도우 기능 켜기/끄기 탭에서 "Hyper-V" 체크 활성화
 ![image](https://user-images.githubusercontent.com/123061106/229704470-10af1bca-c5e0-45c1-93e5-c08afe2588da.png)
+  
   4.재부팅 
   
 
