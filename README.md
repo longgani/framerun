@@ -58,9 +58,11 @@
   1. 윈도우 키 + R 키로 실행창 열기
   
   2. appwiz.cpl 입력 후 확인
+  
 ![image](https://user-images.githubusercontent.com/123061106/229704246-d1ca5c06-6740-486b-a2eb-b59b12a8f708.png)
   
-  3.윈도우 기능 켜기/끄기 탭에서 "Hyper-V" 체크 활성화
+ 
+ 3.윈도우 기능 켜기/끄기 탭에서 "Hyper-V" 체크 활성화
 ![image](https://user-images.githubusercontent.com/123061106/229704470-10af1bca-c5e0-45c1-93e5-c08afe2588da.png)
   
   4.재부팅 
@@ -130,9 +132,11 @@
   오류 해결 방법 : node.js 버전을 14이상으로 해주기 그런데 nvm 때문에 다운그레이드 한것인데 어떡하지?
 
   cmd 창에 nvm list 검색시 v18.15.0 사용 가능한 것으로 보여 버전을 업그레이드 해보자
+  
 
 ![image](https://user-images.githubusercontent.com/123061106/229605192-62d08a88-61eb-42e5-b7ef-fb3b2a726fd1.png)
 
+  
   cmd 창에서 node 다른 버전 다운 받기
 
   nvm list
