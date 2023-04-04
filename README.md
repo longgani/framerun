@@ -47,6 +47,20 @@
 - cmd 창 입력하기
 
   adb -version
+  
+- 에뮬레이터 오류 발생
+![image](https://user-images.githubusercontent.com/123061106/229703768-f686550e-e282-4a89-a04f-719c8794f332.png)
+  -> 윈도우에서 Hyper-V를 활성화하는 방법으로 문제를 해결 가능
+  -----------------------------------------------------------------------------------
+  해결방법
+  1. 윈도우 키 + R 키로 실행창 열기
+  2. appwiz.cpl 입력 후 확인
+![image](https://user-images.githubusercontent.com/123061106/229704246-d1ca5c06-6740-486b-a2eb-b59b12a8f708.png)
+  3.윈도우 기능 켜기/끄기 탭에서 "Hyper-V" 체크 활성화
+![image](https://user-images.githubusercontent.com/123061106/229704470-10af1bca-c5e0-45c1-93e5-c08afe2588da.png)
+  4.재부팅 
+  
+
 
 
 
