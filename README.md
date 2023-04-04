@@ -86,11 +86,26 @@
 
   nvm use v12.10.0 (노드)
 
-  npm install -global expo-cli
-
   npm install -g yarn
 
+  npm install -global expo-cli
 
+-> 오류발생
+  ![image](https://user-images.githubusercontent.com/123061106/229708034-0d8874c2-cffe-461b-b599-04caecb1056c.png)
+
+-------------------------------------------------------------------
+
+해결방법
+- cmd 창 입력
+
+  npm install ->err 발생
+  npm install --verbose -> 에러 발생 원인 :no such file or directory, open 'C:\Users\package.json'
+  npm init(그냥 다 enter)
+  npm install -> err 해결
+  npm install -global expo-cli -> 해도 왜 ???? 조금 에뒤에 해결하자!
+  
+  
+-------------------------------------------------------------------
 - expo 웹사이트에서 회원가입 하기 아래 부분은 이후 실행
 
   expo login
