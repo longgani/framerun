@@ -105,10 +105,14 @@
 - cmd 창 입력
 
   npm install ->err 발생
+  
   npm install --verbose -> 에러 발생 원인 :no such file or directory, open 'C:\Users\package.json'
+  
   npm init(그냥 다 enter)
+  
   npm install -> err 해결
-  npm install -global expo-cli -> 해도 왜 ???? 조금 에뒤에 해결하자!
+  
+  npm install -global expo-cli -> 해도 왜 ???? 조금 뒤에 해결하자!
   
   
 -------------------------------------------------------------------
