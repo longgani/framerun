@@ -63,6 +63,7 @@
   
  
  3.윈도우 기능 켜기/끄기 탭에서 "Hyper-V" 체크 활성화
+ 
 ![image](https://user-images.githubusercontent.com/123061106/229704470-10af1bca-c5e0-45c1-93e5-c08afe2588da.png)
   
   4.재부팅 
@@ -95,6 +96,7 @@
   npm install -global expo-cli
 
 -> 오류발생
+
   ![image](https://user-images.githubusercontent.com/123061106/229708034-0d8874c2-cffe-461b-b599-04caecb1056c.png)
 
 -------------------------------------------------------------------
