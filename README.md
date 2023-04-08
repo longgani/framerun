@@ -118,7 +118,9 @@
   
   npm install -global expo-cli -> 해도 왜 ???? 조금 뒤에 해결하자!
   
+  npm install --no-fund --save typescript @types/node @types/react @types/react-dom @types/jest
   
+  ee
 -------------------------------------------------------------------
 - expo 웹사이트에서 회원가입 하기 아래 부분은 이후 실행
 
